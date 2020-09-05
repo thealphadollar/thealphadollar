@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://twitter.com/thealphadollar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thealphadollar_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/thealphadollar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thealphadollar" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/thealphadollar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="thealphadollar" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9044142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="thealphadollar" height="30" width="30" /></a>
 <a href="https://fb.com/thealphadollar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thealphadollar" height="30" width="30" /></a>
 <a href="https://instagram.com/thealphadollar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thealphadollar" height="30" width="30" /></a>
 <a href="https://medium.com/@thealphadollar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@thealphadollar" height="30" width="30" /></a>
