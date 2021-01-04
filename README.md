@@ -12,7 +12,7 @@
 > Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-## 📩 Latest Blogs
+## 📝 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Coming Face To Face With My Insecurities](https://thealphadollar.me/thoughts/2020/12/12/facing-my-insecurities.html)
