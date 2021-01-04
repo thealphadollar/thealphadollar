@@ -13,6 +13,11 @@
 <hr>
 ## 📩 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Coming Face To Face With My Insecurities](https://thealphadollar.me/thoughts/2020/12/12/facing-my-insecurities.html)
+- [[WIP] Notes | Khan Academy Personal Finance](https://thealphadollar.me/learning/2020/12/10/personal-finance-notes.html)
+- [How Being Called "Smart" Equals Fewer Friends](https://thealphadollar.me/thoughts/2020/11/01/smart-people-less-sociable.html)
+- [Research Papers Summary | Advances In OS Design](https://thealphadollar.me/readings/2020/10/13/advos-research-paper-summary-submission.html)
+- [Reducing CareShare Load Time: 1+ Mins To 1 Sec](https://thealphadollar.me/learning/2020/10/08/reducing-load-time-careshare.html)
 <!-- BLOG-POST-LIST:END -->
 <hr>
 <p align="center">
