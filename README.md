@@ -15,9 +15,9 @@
 ## 📝 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [[WIP] Notes | Khan Academy Personal Finance](https://thealphadollar.me/learning/2021/01/08/personal-finance-notes.html)
 - [Notes For SOLID Software Design Principles](https://thealphadollar.me/learning/2021/01/07/notes-solid-principles.html)
 - [Coming Face To Face With My Insecurities](https://thealphadollar.me/thoughts/2020/12/12/facing-my-insecurities.html)
-- [[WIP] Notes | Khan Academy Personal Finance](https://thealphadollar.me/learning/2020/12/10/personal-finance-notes.html)
 - [How Being Called "Smart" Equals Fewer Friends](https://thealphadollar.me/thoughts/2020/11/01/smart-people-less-sociable.html)
 - [Research Papers Summary | Advances In OS Design](https://thealphadollar.me/readings/2020/10/13/advos-research-paper-summary-submission.html)
 <!-- BLOG-POST-LIST:END -->
