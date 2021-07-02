@@ -15,11 +15,11 @@
 ## 📝 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes From The Psychology of Money](https://thealphadollar.me/readings/2021/07/03/notes-psychology-of-money.html)
 - [How I Reduced Repeating My Mistakes](https://thealphadollar.me/learning/2021/05/28/how-i-reduced-repeating-mistakes.html)
 - [Notes On Scalability](https://thealphadollar.me/learning/2021/02/06/scalability-notes.html)
 - [difficulties and easiness of making choices](https://thealphadollar.me/thoughts/2021/01/28/difficulties-and-easiness-of-making-choices.html)
 - [Notes | Khan Academy Personal Finance](https://thealphadollar.me/learning/2021/01/16/personal-finance-notes.html)
-- [Notes For SOLID Software Design Principles](https://thealphadollar.me/learning/2021/01/07/notes-solid-principles.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
