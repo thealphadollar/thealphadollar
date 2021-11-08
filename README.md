@@ -15,7 +15,7 @@
 ## 📝 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Cope-Up With Overthinking (& Grief)](https://thealphadollar.me/thoughts/2021/08/01/cope-up-overthinking.html)
+- [How I Cope-Up With Overthinking &lpar;&amp; Grief&rpar;](https://thealphadollar.me/thoughts/2021/08/01/cope-up-overthinking.html)
 - [Internal Pressure And Choosing Our Pain](https://thealphadollar.me/thoughts/2021/07/11/internal-pressure-pain.html)
 - [Notes From The Psychology of Money](https://thealphadollar.me/readings/2021/07/03/notes-psychology-of-money.html)
 - [How I Reduced Repeating My Mistakes](https://thealphadollar.me/learning/2021/05/28/how-i-reduced-repeating-mistakes.html)
