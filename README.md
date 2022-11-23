@@ -15,11 +15,11 @@
 ## 📝 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [My First IGDC; Totally Worth It!](https://thealphadollar.me/experience/2022/11/06/attending-igdc.html)
 - [Sayonara Mercari!](https://thealphadollar.me/experience/2022/07/02/mercari-bye-bye.html)
 - [My Experience At Mercari - Significance Beyond Signature](https://thealphadollar.me/experience/2022/06/01/mercari-experience-one-year.html)
 - [My OpenSource &amp; GSoC Discussions](https://thealphadollar.me/experience/2022/01/21/gsoc-compilation.html)
 - [How I Cope-Up With Overthinking &lpar;&amp; Grief&rpar;](https://thealphadollar.me/thoughts/2021/08/01/cope-up-overthinking.html)
-- [Internal Pressure And Choosing Our Pain](https://thealphadollar.me/thoughts/2021/07/11/internal-pressure-pain.html)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
